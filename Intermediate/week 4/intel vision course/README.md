@@ -1,4 +1,4 @@
-# Week 6: 
+# Week 4: 
 Course: Computer Vision
 
 website: https://software.intel.com/en-us/ai/courses/computer-vision
