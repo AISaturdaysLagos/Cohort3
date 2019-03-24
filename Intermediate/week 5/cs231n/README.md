@@ -16,8 +16,8 @@ course notes: http://cs231n.github.io/
 <br/><br/><br/>
 **Neural Networks code implementation**
 <table align="center">
-  <td align="center"><a target="_blank" href="https://colab.research.google.com/drive/1PH4kzFjZvlPdIs5LNDjsnssTmO9Cy8bs">
+  <td align="center"><a target="_blank" href="https://colab.research.google.com/github/ldfrancis/cohort3-resources/blob/master/Intermediate/notebooks/AI6Lagos_DL_week4.ipynb">
         <img src="http://introtodeeplearning.com/images/colab/colab.png?v2.0"  style="padding-bottom:5px;" />Run in Google Colab</a></td>
-  <td align="center"><a target="_blank" href="https://github.com/aamini/introtodeeplearning_labs/blob/master/lab1/Part1_tensorflow.ipynb">
+  <td align="center"><a target="_blank" href="https://github.com/ldfrancis/cohort3-resources/blob/master/Intermediate/notebooks/AI6Lagos_DL_week4.ipynb">
         <img src="http://introtodeeplearning.com/images/colab/github.png"  height="70px" style="padding-bottom:5px;"  />View Source on GitHub</a></td>
 </table>
