@@ -21,3 +21,5 @@ course notes: http://cs231n.github.io/
   <td align="center"><a target="_blank" href="https://github.com/ldfrancis/cohort3-resources/blob/master/Intermediate/notebooks/AI6Lagos_DL_week5.ipynb">
         <img src="http://introtodeeplearning.com/images/colab/github.png"  height="70px" style="padding-bottom:5px;"  />View Source on GitHub</a></td>
 </table>
+
+<a href='https://docs.google.com/presentation/d/1kc-UkUnjkHOqQoC36dnDxzlVnzsiTZnQbciI2uJpOVs/edit?usp=sharing'>Neural Network slide</a>
