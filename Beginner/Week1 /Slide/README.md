@@ -1,1 +1,0 @@
-Calculus - http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning
